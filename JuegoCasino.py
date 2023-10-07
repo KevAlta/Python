@@ -1,7 +1,7 @@
 import random
 
 def tirar_dado():
-    return random.randint(1, 6)
+    return random.randint(1, 8)
 
 
 def juego_de_casino():
